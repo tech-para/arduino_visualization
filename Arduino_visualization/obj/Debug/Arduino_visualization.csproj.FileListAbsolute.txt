@@ -1,0 +1,10 @@
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\bin\Debug\Arduino_visualization.exe.config
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\bin\Debug\Arduino_visualization.exe
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\bin\Debug\Arduino_visualization.pdb
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\obj\Debug\Arduino_visualization.csprojAssemblyReference.cache
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\obj\Debug\Arduino_visualization.Form1.resources
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\obj\Debug\Arduino_visualization.Properties.Resources.resources
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\obj\Debug\Arduino_visualization.csproj.GenerateResource.cache
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\obj\Debug\Arduino_visualization.csproj.CoreCompileInputs.cache
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\obj\Debug\Arduino_visualization.exe
+C:\Users\yu_pr\Desktop\Arduino_visualization\Arduino_visualization\obj\Debug\Arduino_visualization.pdb
